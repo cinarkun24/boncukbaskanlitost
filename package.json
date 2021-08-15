@@ -1,0 +1,17 @@
+{
+"name": "-asdf",
+"version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "aoi.js": "^4.2.1"
+  }
+}
